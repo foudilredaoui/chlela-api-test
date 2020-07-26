@@ -1,0 +1,25 @@
+{
+  "name": "chlela-api-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foudilredaoui/chlela-api-test.git"
+  },
+  "author": "Foudilredaoui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/foudilredaoui/chlela-api-test/issues"
+  },
+  "homepage": "https://github.com/foudilredaoui/chlela-api-test#readme",
+  "dependencies": {
+    "@types/express": "^4.17.7",
+    "express": "^4.17.1",
+    "typescript": "^3.9.7"
+  }
+}
